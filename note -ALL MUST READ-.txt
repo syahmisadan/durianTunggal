@@ -1,0 +1,11 @@
+Info project
+
+1. connection - database connection
+2. controller - List all query
+              - If want put function, better create one page for function (Maybe)
+3. js/validation    - general js (for calculation or validation)
+4.
+5.
+6.
+
+Anyone can update here for referrence. TQ
